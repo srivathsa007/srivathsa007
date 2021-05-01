@@ -2,7 +2,7 @@
 - 👀 I’m interested in python and c coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me linkdin
+- 📫 How to reach me linkdien
 
 <!---
 srivathsa007/srivathsa007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
